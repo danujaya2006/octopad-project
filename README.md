@@ -10,3 +10,4 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Castellar&color=%23FF30D8&size=30&center=true&vCenter=true&lines=octopad+project">
 
 ***
+</a><h3>✬✬ code ලබා ගන්නා ආකාරය  ✬✬</h3></div>
