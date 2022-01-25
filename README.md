@@ -16,7 +16,7 @@
 __✬✬✬  මෙම octopad project_2022 නමැති File එක මත Click කරන්න...__
 </a>  
 
-__✬✬✬  ඉන්පසුව නැවතත් octopad_project_2022.ino මත Click කරන්න...__
+__✬✬✬  ඉන් තුළට ගොස් නැවතත් octopad_project_2022.ino මත Click කරන්න...__
 
 ***
 ***
