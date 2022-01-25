@@ -78,9 +78,9 @@ void setup(){
       Keyboard.releaseAll();
       }
 
-      //                                  ______code by Danujaya Daham_____  
-//                                 _______ 2021 octapad project_______ 
-//                               ____________ Modden by 2022 ____________
-//                               Danuwa....
+//                                        ______code by Danujaya Daham_____  
+//                                       _______ 2021 octapad project_______ 
+//                                     ____________ Modden by 2022 ____________
+//                                     Danuwa....
 
 }
